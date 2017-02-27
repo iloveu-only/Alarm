@@ -43,6 +43,7 @@ import android.os.Bundle;
 import android.support.v4.app.FragmentTransaction;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.preference.PreferenceManager;
+import android.util.Log;
 import android.view.KeyEvent;
 import android.view.MenuItem;
 
@@ -105,6 +106,7 @@ public class AlarmMainActivity extends AppCompatActivity
         OnboardingToSFragment.OnOnboardingToSListener,
         AlarmSettingsFragment.AlarmSettingsListener,
         MimicsSettingsFragment.MimicsSettingsListener {
+    private static  String TAG="AlarmMainActivity";
 
     public final static String SHOULD_ONBOARD = "onboarding";
     public final static String SHOULD_TOS = "show-tos";
@@ -115,9 +117,12 @@ public class AlarmMainActivity extends AppCompatActivity
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_fragment);
-        String packageName = getApplicationContext().getPackageName();
+        String packageName = getApplicationContext().getPackageName();//名为com.microsoft.mimickeralarm
+        Log.i(TAG,"我建的是SharedPreferences"+packageName);
         mPreferences = getSharedPreferences(packageName, MODE_PRIVATE);
-        PreferenceManager.setDefaultValues(this, R.xml.pref_global, false);
+
+        PreferenceManager.setDefaultValues(this, R.xml.pref_global, false);//这样偏好文件会使用XML文件指定的默认值。
+
         mAudioManager = (AudioManager) getSystemService(Context.AUDIO_SERVICE);
         AlarmNotificationManager.get(this).handleNextAlarmNotificationStatus();
 
