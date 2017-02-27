@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\important\Mimicker\app\build\intermediates\exploded-aar\net.hockeyapp.android\HockeySDK\4.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="15b36d97be93c4b8d71c26b44dd86bd52fdcbed9">
+        <dex dex="E:\important\Mimicker\app\build\intermediates\pre-dexed\debug\net.hockeyapp.android-HockeySDK-4.1.1_325488961b1f9281d4a6d12bf8f74f9a4830f327.jar" />
+    </item>
+    <item
+        jar="D:\important\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="E:\important\Mimicker\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.0_d17710032a8fcf70971029b63bf43cac983c7b75.jar" />
+    </item>
+    <item
+        jar="E:\important\Mimicker\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\important\Mimicker\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.0_87124ad82baf6e1fdd532847bece9f6aa40bd693.jar" />
+    </item>
+    <item
+        jar="E:\important\Mimicker\app\build\intermediates\exploded-aar\com.android.support\preference-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="a200389b6c5adb38be8830f85fb5d3bb35ec9950">
+        <dex dex="E:\important\Mimicker\app\build\intermediates\pre-dexed\debug\com.android.support-preference-v7-25.0.0_623e86922b268a346a789c7a8d8b6e0c8644ad00.jar" />
+    </item>
+    <item
+        jar="E:\important\Mimicker\app\build\intermediates\exploded-aar\com.microsoft.projectoxford\speechrecognition\0.6.0\jars\libs\SpeechSDK.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="ee70bc3c3e2f7d034fbb9789bfb6fe51dae7ca97">
+        <dex dex="E:\important\Mimicker\app\build\intermediates\pre-dexed\debug\SpeechSDK_5641a26ab00af6fe0fae40e50bfaa53e6640aae8.jar" />
+    </item>
+    <item
+        jar="E:\important\Mimicker\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="E:\important\Mimicker\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.0_50a17814aad19951c25e9e24cfd5016d4ff52655.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-lang3\3.4\5fe28b9518e58819180a43a850fbc0dd24b7c050\commons-lang3-3.4.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="5fe28b9518e58819180a43a850fbc0dd24b7c050">
+        <dex dex="E:\important\Mimicker\app\build\intermediates\pre-dexed\debug\commons-lang3-3.4_52c90650d7bb867aa207ec002586e8ac4b0b4ee4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.2\f1bc476cc167b18e66c297df599b2377131a8947\gson-2.6.2.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="E:\important\Mimicker\app\build\intermediates\pre-dexed\debug\gson-2.6.2_002b7fbf7a0de167c934ae8280ecce1c989b18df.jar" />
+    </item>
+    <item
+        jar="E:\important\Mimicker\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="E:\important\Mimicker\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.0_6e374e187b68c64a8593cb787997515982cd6c9f.jar" />
+    </item>
+    <item
+        jar="E:\important\Mimicker\app\build\intermediates\exploded-aar\com.microsoft.projectoxford\speechrecognition\0.6.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="b1284563b8f6316fa5ba3fe909b84fcc18ae765d">
+        <dex dex="E:\important\Mimicker\app\build\intermediates\pre-dexed\debug\com.microsoft.projectoxford-speechrecognition-0.6.0_ded77cbd96d296fbcc219b24f17477638cc54f22.jar" />
+    </item>
+    <item
+        jar="E:\important\Mimicker\app\build\intermediates\exploded-aar\com.microsoft.projectoxford\vision\0.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="788fac52e635d3143d1ac5a871af4b447e9b7822">
+        <dex dex="E:\important\Mimicker\app\build\intermediates\pre-dexed\debug\com.microsoft.projectoxford-vision-0.5.0_c07145538020e0479d54569283af38b6afc31469.jar" />
+    </item>
+    <item
+        jar="E:\important\Mimicker\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="E:\important\Mimicker\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_fa1e9ea319b6ac8e7904e61799bf926949e6f622.jar" />
+    </item>
+    <item
+        jar="E:\important\Mimicker\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="E:\important\Mimicker\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.0_29e9e3981c42fa205e68441f4f50ea583c14f95e.jar" />
+    </item>
+    <item
+        jar="E:\important\Mimicker\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="E:\important\Mimicker\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_3f5ff85ce574856139d12f91c02467f8ce2afb7f.jar" />
+    </item>
+    <item
+        jar="E:\important\Mimicker\app\build\intermediates\exploded-aar\com.microsoft.projectoxford\vision\0.5.0\jars\libs\commons-io-2.4.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="E:\important\Mimicker\app\build\intermediates\pre-dexed\debug\commons-io-2.4_5c37ada92878d1c5fa9699b2bd6fa5a25e4f3bca.jar" />
+    </item>
+    <item
+        jar="E:\important\Mimicker\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="E:\important\Mimicker\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.0_0c5904ef583bfcf361d7210d03d64afe515ebb8d.jar" />
+    </item>
+    <item
+        jar="E:\important\Mimicker\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="E:\important\Mimicker\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_873760391d799ff7c27621b0970c83ada5ccdbb3.jar" />
+    </item>
+    <item
+        jar="E:\important\Mimicker\app\build\intermediates\exploded-aar\com.mixpanel.android\mixpanel-android\4.9.2\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="b91d39a93dfeda20d847dcbcc9d597605dc2114d">
+        <dex dex="E:\important\Mimicker\app\build\intermediates\pre-dexed\debug\com.mixpanel.android-mixpanel-android-4.9.2_d5c11f5e1fb64b3d332b7babf60cfe9928481919.jar" />
+    </item>
+    <item
+        jar="E:\important\Mimicker\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="E:\important\Mimicker\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_a0bdca94fddd570322586455a12f7ecbb4291459.jar" />
+    </item>
+    <item
+        jar="E:\important\Mimicker\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="E:\important\Mimicker\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_0bf5f7d244f444beb9c4cd9d3c3c9ba236104ab4.jar" />
+    </item>
+    <item
+        jar="E:\important\Mimicker\app\build\intermediates\exploded-aar\com.android.support\preference-v14\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="c7db8c2763318b41e652647cfafcb265d8598256">
+        <dex dex="E:\important\Mimicker\app\build\intermediates\pre-dexed\debug\com.android.support-preference-v14-25.0.0_8b91e2c460728e29c2207648fde4a5fb713e95b3.jar" />
+    </item>
+    <item
+        jar="E:\important\Mimicker\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="E:\important\Mimicker\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.0.0_b5e0a1592ecc0f1de511cbee54c0716a0bc2950c.jar" />
+    </item>
+    <item
+        jar="E:\important\Mimicker\app\build\intermediates\exploded-aar\com.microsoft.projectoxford\emotion\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="85580f7e643f4e319878f282874afccc3b1b95ed">
+        <dex dex="E:\important\Mimicker\app\build\intermediates\pre-dexed\debug\com.microsoft.projectoxford-emotion-1.0.0_1a43a4f6c043a13ed34c18b72bfcc379f9c55417.jar" />
+    </item>
+    <item
+        jar="E:\important\Mimicker\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="E:\important\Mimicker\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.0_2f8cd8cbfd77ade992cc5837e9ba74ca8cdb3a21.jar" />
+    </item>
+    <item
+        jar="E:\important\Mimicker\app\build\intermediates\exploded-aar\com.android.support\design\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="E:\important\Mimicker\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.0.0_d18c3b77dee480bcc167a11ead8b8f93dd87659c.jar" />
+    </item>
+    <item
+        jar="E:\important\Mimicker\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="E:\important\Mimicker\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.0_6fe0cf95fe91eadc6557bec764e477d11e2079b6.jar" />
+    </item>
+    <item
+        jar="E:\important\Mimicker\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="E:\important\Mimicker\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.0_ca4b0f3067d4efe3580ccdaac874dd61b92bbe96.jar" />
+    </item>
+    <item
+        jar="E:\important\Mimicker\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="E:\important\Mimicker\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.0_a9be4b8d8c501c95f6bff368444f0018af7b8dcf.jar" />
+    </item>
+    <item
+        jar="E:\important\Mimicker\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="E:\important\Mimicker\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.0.0_e2dbedb4515da12ea063de415f1ad5d1ec8c68fc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.ibm.icu\icu4j\56.1\8dd6671f52165a0419e6de5e1016400875a90fa9\icu4j-56.1.jar"
+        jumboMode="false"
+        revision="25.0.0"
+        sha1="8dd6671f52165a0419e6de5e1016400875a90fa9">
+        <dex dex="E:\important\Mimicker\app\build\intermediates\pre-dexed\debug\icu4j-56.1_faa8141798fa5d4e3ced8bc84496526935b90204.jar" />
+    </item>
+
+</items>
